@@ -5,7 +5,7 @@
   "main": "dist/app.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/app.js",
+    "start": "node dist/telegramReader.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
